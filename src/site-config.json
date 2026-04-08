@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "hallway tile floor",
+    "phone": "+16613809594",
+    "category": "flooring installer",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's Flooring Experts",
+      "heroSubline": "Durable floors, expertly installed. Get a free quote today. Serving Bakersfield and surrounding areas.",
+      "aboutTitle": "Decades of Flooring Expertise in Bakersfield",
+      "aboutText": [
+        "Hallway Tile Floor started as a small, family-run business right here in Bakersfield. We've spent the last 12 years building a reputation for quality and reliability, one floor at a time.",
+        "We believe in doing things right the first time. That means using quality materials, skilled installers, and a commitment to exceeding your expectations. We treat every project as if it were our own home.",
+        "We're proud to be a part of the Bakersfield community. We support local charities and strive to create lasting relationships with our clients. Our goal is to provide flooring solutions that enhance the beauty and value of your home for years to come."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled installers ensure precise and durable flooring, built to last."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "We offer a vast array of flooring options to match your style and budget."
+        },
+        {
+          "title": "Free Estimates",
+          "description": "Get a clear and accurate estimate for your flooring project, with no hidden costs."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Bakersfield homes and climate, ensuring the right flooring choices."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space",
+      "ctaSubline": "Get a free quote on your next flooring project. Call us today!"
+    },
+    "services": [
+      {
+        "slug": "tile-installation",
+        "name": "Tile Installation",
+        "shortDescription": "Expert tile installation for kitchens, bathrooms, and more.",
+        "description": "From classic ceramic to modern porcelain and natural stone, we handle all types of tile installation with precision and care. We understand the unique challenges of Bakersfield homes, including foundation settling and extreme temperature fluctuations, and ensure proper preparation and installation techniques to prevent cracking and shifting. Our team will work with you to select the perfect tile for your style and budget, and ensure a flawless finish that will last for years to come. We handle everything from subfloor preparation to grout sealing, leaving you with a beautiful and durable tile floor or backsplash.",
+        "process": [
+          "Step 1: Consultation and Design - We discuss your needs and help you choose the right tile.",
+          "Step 2: Precise Measurements - Accurate measurements are taken to minimize waste and ensure a perfect fit.",
+          "Step 3: Professional Installation - Our experienced installers meticulously lay each tile with precision.",
+          "Step 4: Grouting and Sealing - We use high-quality grout and sealant to protect your new tile floor."
+        ],
+        "benefits": [
+          "Enhanced Home Value",
+          "Durable and Long-Lasting",
+          "Easy to Clean and Maintain",
+          "Variety of Styles and Designs"
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for Bakersfield's climate?",
+            "answer": "Porcelain tile is a great choice for Bakersfield due to its durability and resistance to temperature fluctuations and moisture. It's also less prone to cracking than some other tile types."
+          },
+          {
+            "question": "How long does tile installation take?",
+            "answer": "The timeframe varies depending on the size and complexity of the project, but we always provide a clear timeline upfront. A typical bathroom floor might take 2-3 days."
+          },
+          {
+            "question": "Do you remove old flooring?",
+            "answer": "Yes, we handle the removal and disposal of your old flooring as part of our installation service. We ensure responsible disposal following local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Bring warmth and elegance to your home with hardwood flooring.",
+        "description": "We specialize in the installation of solid hardwood, engineered hardwood, and laminate flooring. We understand the unique considerations for hardwood in Bakersfield's dry climate, including proper acclimation to prevent warping and cracking. Our experienced installers ensure a precise and beautiful installation, paying close attention to detail and using only the highest quality adhesives and finishes. From traditional oak to exotic hardwoods, we offer a wide selection of options to suit your style and budget. We can also refinish existing hardwood floors to restore their original beauty.",
+        "process": [
+          "Step 1: Consultation and Wood Selection - We help you choose the right hardwood for your home.",
+          "Step 2: Acclimation - The wood is allowed to adjust to the home's humidity levels.",
+          "Step 3: Professional Installation - Our team carefully installs the hardwood with precision.",
+          "Step 4: Sanding and Finishing - The floor is sanded smooth and finished with a durable coating."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Timeless Beauty",
+          "Warm and Inviting",
+          "Durable and Long-Lasting"
+        ],
+        "faq": [
+          {
+            "question": "What is the best type of hardwood for Bakersfield?",
+            "answer": "Engineered hardwood is often a good choice for Bakersfield due to its stability in fluctuating humidity levels. It's less prone to warping than solid hardwood."
+          },
+          {
+            "question": "How often should I refinish my hardwood floors?",
+            "answer": "Typically, hardwood floors should be refinished every 7-10 years, depending on the amount of traffic and wear. We can assess your floors and recommend the best course of action."
+          },
+          {
+            "question": "Do you offer dustless sanding?",
+            "answer": "Yes, we offer dustless sanding options to minimize mess and air pollution during the refinishing process."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and durable laminate flooring for any room.",
+        "description": "Laminate flooring offers a cost-effective and durable alternative to hardwood and tile. It's resistant to scratches, stains, and fading, making it an ideal choice for high-traffic areas and homes with pets or children. We offer a wide selection of laminate styles and colors to match any décor. Our experienced installers ensure a precise and level installation, paying close attention to detail and using only the highest quality underlayment. We can install laminate flooring over a variety of subfloors, and we'll handle the removal and disposal of your old flooring. Laminate is a great choice for Bakersfield homes looking for value and performance.",
+        "process": [
+          "Step 1: Consultation and Selection - We help you choose the right laminate for your needs.",
+          "Step 2: Subfloor Preparation - The subfloor is leveled and prepared for installation.",
+          "Step 3: Precise Installation - Our team carefully installs the laminate with attention to detail.",
+          "Step 4: Finishing Touches - Trim and moldings are installed for a seamless look."
+        ],
+        "benefits": [
+          "Affordable",
+          "Durable and Scratch-Resistant",
+          "Easy to Clean and Maintain",
+          "Wide Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While some laminate flooring is water-resistant, it's not completely waterproof. We recommend avoiding laminate in areas with high moisture, such as bathrooms and laundry rooms, unless you choose a waterproof variety."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last 10-20 years or more."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, professional installation ensures a proper and level surface, preventing issues like buckling or gapping. We recommend professional installation for best results."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof and stylish vinyl flooring for any room.",
+        "description": "Vinyl flooring is a versatile and durable option that's perfect for kitchens, bathrooms, and other areas prone to moisture. We offer a wide selection of vinyl sheet, vinyl tile, and luxury vinyl plank (LVP) flooring to match any style and budget. Our experienced installers ensure a seamless and waterproof installation, paying close attention to detail and using only the highest quality adhesives. Vinyl flooring is easy to clean and maintain, making it an ideal choice for busy families. We can install vinyl flooring over a variety of subfloors, and we'll handle the removal and disposal of your old flooring.",
+        "process": [
+          "Step 1: Consultation and Selection - We help you choose the right vinyl for your needs.",
+          "Step 2: Subfloor Preparation - The subfloor is leveled and prepared for installation.",
+          "Step 3: Precise Installation - Our team carefully installs the vinyl with attention to detail.",
+          "Step 4: Sealing and Finishing - Seams are sealed to prevent water damage."
+        ],
+        "benefits": [
+          "Waterproof",
+          "Durable and Scratch-Resistant",
+          "Easy to Clean and Maintain",
+          "Wide Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its waterproof properties."
+          },
+          {
+            "question": "How long does vinyl flooring last?",
+            "answer": "With proper care and maintenance, vinyl flooring can last 15-20 years or more."
+          },
+          {
+            "question": "What is the difference between vinyl sheet, vinyl tile, and LVP?",
+            "answer": "Vinyl sheet comes in large rolls, offering a seamless and waterproof surface. Vinyl tile comes in individual squares, allowing for custom designs. LVP (Luxury Vinyl Plank) mimics the look of hardwood and stone, offering a more realistic and durable option."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfortable and stylish carpet installation for your home.",
+        "description": "We offer a wide selection of carpet styles and colors to match any décor, from plush and luxurious to durable and stain-resistant. Our experienced installers ensure a precise and seamless installation, using only the highest quality padding and adhesives. Carpet can add warmth and comfort to any room, and it's a great choice for bedrooms, living rooms, and playrooms. We can install carpet over a variety of subfloors, and we'll handle the removal and disposal of your old flooring, including proper disposal of old carpet padding.",
+        "process": [
+          "Step 1: Consultation and Selection - We help you choose the right carpet for your needs.",
+          "Step 2: Padding Installation - High-quality padding is installed for comfort and support.",
+          "Step 3: Precise Installation - Our team carefully installs the carpet, stretching it for a tight fit.",
+          "Step 4: Finishing Touches - Trim and moldings are installed for a seamless look."
+        ],
+        "benefits": [
+          "Comfortable and Warm",
+          "Reduces Noise",
+          "Wide Variety of Styles",
+          "Affordable"
+        ],
+        "faq": [
+          {
+            "question": "What type of carpet is best for high-traffic areas?",
+            "answer": "Nylon and polyester carpets are durable and stain-resistant, making them ideal for high-traffic areas."
+          },
+          {
+            "question": "How often should I clean my carpets?",
+            "answer": "We recommend professional carpet cleaning every 12-18 months to remove dirt, allergens, and stains."
+          },
+          {
+            "question": "Do you offer stain protection treatments?",
+            "answer": "Yes, we offer stain protection treatments to help prevent stains and spills from penetrating the carpet fibers."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Floor Repair",
+        "shortDescription": "Reliable floor repair services to restore your damaged flooring.",
+        "description": "From cracked tiles to warped hardwood, we can handle all types of floor repairs. Our experienced technicians will assess the damage and provide a cost-effective solution to restore your flooring to its original condition. We use only the highest quality materials and techniques to ensure a durable and long-lasting repair. We understand the unique challenges of Bakersfield homes, including foundation settling and water damage, and we'll address the underlying cause of the problem to prevent future issues. Our repair services include tile replacement, hardwood refinishing, laminate repair, and vinyl repair.",
+        "process": [
+          "Step 1: Damage Assessment - We inspect the damage and determine the best course of action.",
+          "Step 2: Material Selection - We choose the right materials to match your existing flooring.",
+          "Step 3: Professional Repair - Our team carefully repairs the damaged area.",
+          "Step 4: Finishing Touches - The repaired area is blended seamlessly with the surrounding floor."
+        ],
+        "benefits": [
+          "Saves Money",
+          "Extends Floor Life",
+          "Prevents Further Damage",
+          "Restores Appearance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my floor needs repair?",
+            "answer": "Signs of floor damage include cracks, chips, warping, buckling, and loose tiles."
+          },
+          {
+            "question": "Can you repair water-damaged floors?",
+            "answer": "Yes, we can repair water-damaged floors, but it's important to address the source of the water leak first."
+          },
+          {
+            "question": "How much does floor repair cost?",
+            "answer": "The cost of floor repair varies depending on the extent of the damage and the type of flooring. We offer free estimates."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Hallway Tile Floor is proud to offer premium flooring installation services to the residents and businesses of Bakersfield, California. We understand the unique needs of Bakersfield homes, from dealing with the dry climate to matching the diverse architectural styles found throughout the city. Our experienced team is committed to providing top-quality workmanship and exceptional customer service on every project, ensuring your new floors look beautiful and last for years to come.\n\nWhether you're looking to upgrade your kitchen with stylish tile, add warmth to your living room with hardwood, or enhance your business space with durable commercial flooring, Hallway Tile Floor has you covered. We offer a wide selection of flooring materials to suit any taste and budget, and our expert installers will handle every aspect of the job, from preparation to finishing touches. We are dedicated to serving the Bakersfield community with integrity and professionalism.\n\nWe also take pride in being a local Bakersfield business. We source materials locally whenever possible and are committed to supporting our community. When you choose Hallway Tile Floor, you're not just getting great flooring, you're supporting a local business that cares about Bakersfield.",
+        "localContext": "Bakersfield is a vibrant city in the southern San Joaquin Valley, known for its rich agricultural heritage and thriving arts scene. From the historic Fox Theater to the bustling Marketplace, Bakersfield offers a unique blend of old-world charm and modern amenities.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Hallway Tile Floor extends its flooring expertise to the community of Oildale, CA. We recognize the specific needs of Oildale residents and businesses, offering flooring solutions that are both durable and aesthetically pleasing. Our commitment to quality craftsmanship and customer satisfaction ensures that your flooring project, whether residential or commercial, will be completed to the highest standards.\n\nFrom assisting with design choices to seamless installation, Hallway Tile Floor provides a comprehensive service tailored to Oildale's unique character. We offer a wide range of flooring options, including tile, hardwood, laminate, and vinyl, to suit any style and budget. We are dedicated to enhancing the beauty and functionality of your space with our professional flooring services.\n\nWe understand the importance of community and contribute to the betterment of Oildale by providing reliable and affordable flooring solutions. We are proud to be a trusted partner in transforming homes and businesses in Oildale.",
+        "localContext": "Oildale, located just north of Bakersfield, is a community with a strong sense of local pride and a rich history tied to the oil industry. It offers a blend of residential neighborhoods and commercial areas.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Hallway Tile Floor is pleased to offer its flooring installation services to the growing community of Rosedale, CA. Understanding the evolving needs of Rosedale homeowners, we provide a range of flooring options to suit modern lifestyles and preferences. Our experienced team is dedicated to delivering exceptional results, ensuring your flooring project enhances the beauty and value of your home.\n\nWe work closely with our clients in Rosedale to select the perfect flooring materials, from stylish tile to durable hardwood and cost-effective laminate. Our professional installers handle every aspect of the job with precision and care, ensuring a seamless and stress-free experience. We are committed to exceeding your expectations with our superior workmanship and customer service.\n\nSupporting the local community is important to us. We strive to provide Rosedale residents with quality flooring solutions that meet their needs and budget, while also contributing to the overall well-being of the area.",
+        "localContext": "Rosedale is a developing community northwest of Bakersfield, known for its newer residential developments and family-friendly atmosphere. It's a growing area with a focus on modern living.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Shafter",
+          "Oildale"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Hallway Tile Floor proudly serves the community of Shafter, CA, providing high-quality flooring installation services to homes and businesses. We understand the unique characteristics of Shafter properties, offering flooring solutions that are both practical and aesthetically pleasing. Our experienced team is committed to delivering exceptional workmanship and customer satisfaction on every project.\n\nWhether you're looking to upgrade your kitchen with new tile, add warmth to your living room with hardwood, or enhance your commercial space with durable flooring, Hallway Tile Floor has you covered. We offer a wide selection of flooring materials to suit any style and budget, and our expert installers will handle every aspect of the job with precision and care. We are dedicated to serving the Shafter community with integrity and professionalism.\n\nWe value our role in the Shafter community. We strive to provide affordable and reliable flooring solutions that meet the needs of local residents and businesses, contributing to the overall well-being of the area.",
+        "localContext": "Shafter is a city located northwest of Bakersfield, known for its agricultural industry and close-knit community. It offers a mix of residential and commercial areas.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Hallway Tile Floor extends its flooring services to the city of Wasco, CA, providing reliable and professional installation for homes and businesses alike. We recognize the importance of quality flooring in Wasco, offering durable and stylish options to suit any need. Our team is dedicated to exceeding customer expectations with every project, ensuring a beautiful and long-lasting result.\n\nFrom helping you choose the perfect flooring material to expert installation, Hallway Tile Floor provides a comprehensive service tailored to the Wasco community. We offer a wide range of options, including tile, laminate, hardwood, and vinyl, to match your style and budget. We're committed to enhancing the beauty and functionality of your space with our professional services.\n\nWe believe in supporting the Wasco community by providing reliable and affordable flooring solutions. We are proud to be a trusted partner in transforming homes and improving businesses in Wasco.",
+        "localContext": "Wasco is a city in Kern County, California, known for its agricultural production, particularly roses and potatoes. It has a strong sense of community and a rich history.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "Buttonwillow"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Hallway Tile Floor is proud to serve the community of Arvin, CA, offering professional flooring installation services that enhance the beauty and functionality of your home or business. We understand the unique needs of Arvin residents, providing durable and stylish flooring options to suit any taste and budget. Our experienced team is committed to delivering exceptional workmanship and customer satisfaction on every project.\n\nWhether you're looking to upgrade your kitchen with new tile, add warmth to your living room with hardwood, or enhance your commercial space with durable flooring, Hallway Tile Floor has you covered. We offer a wide selection of flooring materials, and our expert installers will handle every aspect of the job with precision and care. We are dedicated to serving the Arvin community with integrity and professionalism.\n\nWe are dedicated to being a part of the Arvin community. We strive to provide affordable and reliable flooring solutions that meet the needs of local residents and businesses, contributing to the overall well-being of the area.",
+        "localContext": "Arvin is a city located southeast of Bakersfield, known for its agricultural industry and strong community spirit. It's a vibrant city with a rich cultural heritage.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Hallway Tile Floor is pleased to offer its flooring installation services to the residents and businesses of Lamont, CA. Understanding the needs of this community, we provide a wide range of flooring options to suit any style and budget. Our experienced team is dedicated to delivering exceptional results, ensuring your flooring project enhances the beauty and value of your property.\n\nFrom helping you choose the perfect flooring material to expert installation, Hallway Tile Floor provides a comprehensive service tailored to Lamont's unique character. We offer options like durable tile, classic hardwood, and affordable laminate, ensuring you find the perfect fit for your needs. Our professional installers handle every aspect of the job with precision and care, ensuring a seamless and stress-free experience.\n\nSupporting the local community is important to us. We provide Lamont residents with quality flooring solutions that meet their needs, while also contributing to the overall prosperity of the area.",
+        "localContext": "Lamont is a small community southeast of Bakersfield, known for its agricultural roots and close-knit atmosphere. The town provides a tranquil residential environment.",
+        "nearbyAreas": [
+          "Arvin",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "Hallway Tile Floor is delighted to extend its flooring expertise to the town of Tehachapi, CA. We understand the unique challenges and preferences of Tehachapi homeowners and businesses, offering tailored flooring solutions that blend seamlessly with the local environment. Our dedication to quality craftsmanship and customer satisfaction ensures that your flooring project, big or small, will be completed to the highest standards.\n\nFrom initial consultation to final installation, Hallway Tile Floor provides a comprehensive service designed to meet Tehachapi's specific needs. Our wide selection of flooring options, including tile, hardwood, laminate, and vinyl, allows you to find the perfect match for your style and budget. We are committed to enhancing the beauty and functionality of your space with our professional flooring services.\n\nWe recognize the importance of community and actively contribute to the betterment of Tehachapi by providing reliable and affordable flooring options. We are proud to be a trusted partner in transforming homes and businesses in Tehachapi.",
+        "localContext": "Tehachapi is a mountain town in Kern County, known for its scenic beauty, wind farms, and railway loop. It offers a unique blend of small-town charm and outdoor recreation.",
+        "nearbyAreas": [
+          "Mojave",
+          "California City",
+          "Arvin"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Tile Installation",
+        "text": "Hallway Tile Floor did an amazing job installing our new kitchen backsplash. The installers were professional, efficient, and very detail-oriented. The finished product looks fantastic! We highly recommend them.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John S.",
+        "rating": 4,
+        "service": "Hardwood Flooring",
+        "text": "We had Hallway Tile Floor install hardwood flooring in our living room. The quality of the wood is excellent, and the installation was well done. There was a slight delay due to a material shortage, but they communicated clearly throughout the process and made it right.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "I was impressed with the professionalism and expertise of Hallway Tile Floor. They installed laminate flooring in my basement, and it looks great! The price was very reasonable, and the installation was quick and efficient.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Vinyl Flooring",
+        "text": "Hallway Tile Floor transformed our bathroom with beautiful new vinyl flooring. The installers were courteous and respectful, and they cleaned up thoroughly after the job was done. I would definitely use them again for future flooring projects.",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Sarah M.",
+        "rating": 4,
+        "service": "Carpet Installation",
+        "text": "We had Hallway Tile Floor install new carpet in our bedrooms. The carpet is soft and comfortable, and the installation was well done. The only minor issue was a small stain on the carpet, but they quickly addressed it and removed the stain.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Floor Repair",
+        "text": "I had a cracked tile in my kitchen, and Hallway Tile Floor was able to repair it quickly and affordably. The repair is seamless, and you can't even tell there was a crack. I highly recommend them for any flooring repair needs.",
+        "date": "2024-06-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Hallway Tile Floor | Bakersfield Flooring",
+        "description": "Expert flooring installation in Bakersfield, CA. Tile, hardwood, laminate, vinyl, & carpet. Free quotes!"
+      },
+      "about": {
+        "title": "About Hallway Tile Floor | Bakersfield, CA",
+        "description": "Learn about Hallway Tile Floor's history, values, and commitment to quality flooring in Bakersfield and surrounding areas."
+      },
+      "services": {
+        "title": "Flooring Services | Hallway Tile Floor",
+        "description": "Tile, hardwood, laminate, vinyl, & carpet installation in Bakersfield. Expert floor repair services available."
+      },
+      "contact": {
+        "title": "Contact Hallway Tile Floor | Bakersfield",
+        "description": "Get a free flooring quote in Bakersfield, CA. Call us today or fill out our online form."
+      },
+      "reviews": {
+        "title": "Hallway Tile Floor Reviews | Bakersfield, CA",
+        "description": "Read what our satisfied customers are saying about our flooring installation and repair services in Bakersfield."
+      },
+      "service-areas": {
+        "title": "Hallway Tile Floor Service Areas",
+        "description": "Hallway Tile Floor provides professional flooring installation in Bakersfield, CA and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tile-installation": "/images/service-tile-installation.webp",
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "floor-repair": "/images/service-floor-repair.webp"
+    },
+    "servicesResponsive": {
+      "tile-installation": {
+        "src": "/images/service-tile-installation.webp",
+        "srcset": "/images/service-tile-installation-400w.webp 400w, /images/service-tile-installation-800w.webp 800w, /images/service-tile-installation-1200w.webp 1200w, /images/service-tile-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
